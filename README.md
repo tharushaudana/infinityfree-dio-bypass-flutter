@@ -1,8 +1,6 @@
 # InfinityFree Bypasser  
 
-**This is a different method!** Unlike traditional approaches that rely on running browser-like requests, this Flutter application bypasses InfinityFree.net's restrictions by calculating the cookie values dynamically and directly adding them to API requests. It eliminates the need for resource-heavy browser emulation, offering a faster and more efficient solution.  
-
-A Flutter application designed to overcome InfinityFree.net's API request limitations. Instead of relying on browser-like requests, it calculates the necessary cookie values and includes them directly in the HTTP request, making it a lightweight and effective way to bypass restrictions.  
+**This is a different method!** Unlike traditional approaches that rely on running browser-like requests, this Flutter application bypasses InfinityFree.net's restrictions by calculating the cookie values dynamically and directly adding them to API requests. It eliminates the need for resource-heavy browser emulation, offering a faster and more efficient solution. 
 
 ## Features  
 - Dynamically calculates cookie values for HTTP requests.  
